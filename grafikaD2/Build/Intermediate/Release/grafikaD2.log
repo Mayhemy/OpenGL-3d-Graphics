@@ -1,0 +1,28 @@
+﻿  Main.cpp
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Types.h(148,26): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'src/Main.cpp')
+  
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Types.h(149,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'src/Main.cpp')
+  
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Types.h(155,28): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  (compiling source file 'src/Main.cpp')
+  
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(161,48): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(161,48): warning C4244:         with
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(161,48): warning C4244:         [
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(161,48): warning C4244:             T=float
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(161,48): warning C4244:         ]
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(162,48): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(162,48): warning C4244:         with
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(162,48): warning C4244:         [
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(162,48): warning C4244:             T=float
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(162,48): warning C4244:         ]
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(257,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\src\Main.cpp(257,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 605 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  grafikaD2.vcxproj -> C:\Users\altsn\Desktop\GRAFIKAD2FINAL\RG23D2 Fedja Filipovic RN 116 2020\grafikaD2\Build\Release\grafikaD2.exe
